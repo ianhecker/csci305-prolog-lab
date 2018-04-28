@@ -1,0 +1,96 @@
+EC1)
+Viscount Linley
+Lady Sarah Chatto
+
+EC2)
+Viscount Linley
+Lady Sarah Chatto
+
+1)King George VI
+
+2)Queen Mary
+
+3)King George V
+
+4)
+King George V
+Queen Mary
+
+5)
+Prince William
+Prince Henry
+
+6)Princess Margaret
+
+7)
+Prince Charles
+Prince Andrew
+Prince Edward
+
+8)Princess Anne
+
+9)Princess Margaret
+
+10)Catherine Middleton
+
+11)
+Prince Charles 
+Lady Diana Spencer 
+Queen Elizabeth II 
+Prince Philip 
+King George VI 
+Lady Elizabeth Bowes-Lyon 
+King George V 
+Queen Mary 
+King Edward VII 
+Princess Alexandra of Denmark 
+Prince Albert 
+Queen Victoria 
+
+12) false
+Queen Victoria is the oldest and therefore descendant of no one
+
+13) false
+Was told by Professor Issac to implement age test by lifespan.
+Prince Henry/Prince William have no death date in Royal.pl, 
+so assumption that no death date = still living
+therefore, Prince William is older than Prince Henry
+
+14)
+Lady Elizabeth Bowes-Lyon 
+Queen Victoria 
+Princess Alexandra of Denmark 
+Queen Mary 
+Mrs Simpson 
+Lady Elizabeth Bowes-Lyon 
+Prince Albert 
+King Edward VII 
+King George V 
+King Edward VIII 
+King George VI 
+Prince Philip
+
+15)King George V
+
+------------------------
+16)I really like that in Prolog answers can be solved by breaking
+them down into smaller ones, such as family relations in this lab!
+It's very easy to problem solve
+
+17)The syntax is strange, but it honestly isnt bad at all. I like 
+Prolog.
+
+18)I really enjoyed this lab. Prolog was fun to use. I liked the royal
+family data to play with, but disliked that i didnt have a reference
+sheet of exact family relations ie: who is who's aunt/cousin/uncle etc.
+
+19) 8 hours
+
+20) I will def use prolog again when i have to manipulate data to 
+find relationships between things. Maybe word processing to find
+which words come after one another and attempt to have a program 
+understand sentences.
+
+
+
+
